@@ -1,0 +1,159 @@
+Thank you so much. Backstage I was able to get one of these 930s. It’s a real sweet device. I saw that Stephen had even color-coordinated shoes. I need to get those, too. (Laughter.)
+
+It’s fantastic to be at Build. In fact, I was just reflecting, I think Terry said this is the 22nd year. In fact, I was in San Francisco for the very first PDC. I was not yet at Microsoft. This is when the Windows 32, WIN32 APIs were unveiled. And ever since I think I’ve not missed a PDC or a developer conference. So it’s fantastic to be here with all of you.
+
+And it’s also, I was reflecting on it and saying, gosh, what happened, like why don’t I have a proper keynote anymore at developer conferences, and this is one of those privileges you lose when you get kicked upstairs, you don’t have your own keynote anymore. (Laughter.) But it’s awesome to be here.
+
+In fact, if you think about what developers mean to us, it’s pretty deep. We started out as a company that was focused on developers. We were a tools company before we were an Office company before we were a Windows company.
+
+I was, in fact, talking to Paul Allen very recently, and he was reminiscing about his days when he was porting BASIC to all these new PC platforms, as he called it. And guess what, we are again in that sort of era right now. And you saw from Terry the entirety of the Windows family, from Internet of Things to the consoles to tablets to phones to PCs. We have that proliferation of what I talk about as ubiquitous computing and ambient intelligence or this mobile-first, cloud-first world where Windows is prevalent.
+
+So it’s exciting times for us and exciting times for developers in terms of the opportunity to be able to take your creativity, your applications, your systems, and then bring them forth to Windows as it evolves.
+
+So we thought about what’s the best way for me to have a dialogue with 5,000 of my closest developer friends, and we figured that it’s probably a little logistical nightmare to try and do an open Q&A. So what we did was our evangelism group went out and got questions that are top of mind for all developers, some of them who are here, some in fact who are watching on the webcast, and recorded those questions. These are actually pretty hard questions and what’s really top of mind for you.
+
+So what we’ll do is we’ll play those questions and I’ll have a chance to respond and give you what I have as both my perspective on it, as well as answers to some of the key things that you want answers to.
+
+So let’s roll the first video with the first question.
+
+QUESTION: Hi. My name is Rob Mezza (ph). I’m currently a developer at Lob.com.
+
+I work on the Android platform, and I was wondering why I should consider using Windows.
+
+SATYA NADELLA: It’s pretty straight, why build for Windows. That’s the question, that’s the question of the conference, that’s the question of this morning, and I want to give you a very, very straight answer to it.
+
+You want to build for Windows because we are going to innovate with a challenger mindset. We’re not coming at this as some incumbent trying to do the next version of Windows. We’re going to come at this by innovating in every dimension, the dimension of hardware, the software experiences across the Windows family, and go after this in such a way that you see us make progress with rapid pace.
+
+In fact, today was a massive milestone. If you look at what we’ve done on the phone, the update to the PC and tablet, the new devices Stephen showed, this is all what you can come to expect from us, and we’ll keep pushing at it.
+
+There will be a couple of things that will be pretty unique to what we do. One is what I call the sensibility we have of bringing end users, developers and IT professionals together. That’s one thing that we’ve always felt is what birthed the magic of platforms, from sort of the first version of Windows to what we think is Windows in this era of mobile first, cloud first.
+
+And then the second real attribute for us is to be able to create a developer opportunity which is broad. So one of the things that we are doing is making sure that the opportunity for you as developers across the Windows family is expanding. Some of the changes that both Joe described and Terry alluded to where we are going, which is to be able to make your new applications built for WinRT and the Windows Store, in fact, the fact that you can use them in the desktop mode, that completely opens up a huge base of users for your applications that you’re targeting Windows with.
+
+So this notion of creating the broadest Windows opportunity for your sockets for you is a huge priority for us, and we have huge volume still. We have hundreds of millions of PCs, tablets and phones still on a run-rate basis, and a billion-plus PCs that will all be upgrading. So therefore we have a significant opportunity for any application you target Windows.
+
+And then the last thing is, we are betting on this platform ourselves. You saw from Kirk Koenigsbauer how we’re building the next generation of Office applications for this platform. So we are going to basically use the same platform that we want you to target to build our own set of applications.
+
+So those would be the three reasons, because we’re going to innovate with a challenger mindset, we’re going to create the broadest platform opportunity in terms of sockets for you, and we are going to bet on that platform ourselves, and that’s the reason why you should target Windows. (Applause.)
+
+Let’s go to the next question.
+
+QUESTION: Hi. My name is Sadarth Merching (ph), and I’m one of the organizers of Hacktag, which is currently the largest student-run hackathon on the West Coast.
+
+At hackathons most of my friends and I want students who use our apps to be able to use them regardless of what devices they own. So do you have any plans for ensuring that apps developed on Microsoft platforms easily port over to other platforms?
+
+SATYA NADELLA: You know, David Treadwell talked pretty eloquently about this. One of the core principles we have is we want to make it possible for every developer to bring their code assets forward and to be able to leverage their code assets they build in a very broad way, across our own family but also cross-platform. That’s the principle that drives us, because we know, I mean, it’s crazy to abandon what you’ve built and it’s also crazy not to be able to take what you have done and leverage it across the broadest spectrum of device targets. And that’s really the approach that we want to enable.
+
+The first thing I would say is if you look at the platform itself that David went through, we’re the only platform that has APIs with language bindings across both native, managed and Web. And the fact that that flexibility exists means you can build your core libraries in the language of your choice and those core libraries you can take cross-platform, obviously the Web being the one that’s sort of easiest to conceptualize, and that’s what we have done even by taking WinJS and putting it into open source and making it a community effort so that you can take it cross-platform.
+
+But we’re also working with PhoneGap, we’re working with Xamarin and of course Unity to be able to help you take what you build for Windows cross-platform, and that particular sort of sensibility of being able to take your code, leverage it across the Windows family itself with our tool chain, but to be able to take your core libraries cross-platform is something that you can expect us to continue to partner well with, use open source, but be very, very mindful about how we enable you to do that.
+
+All right, the next question.
+
+QUESTION: Hey, Satya. I’m Derek. I’m a CS major from Stanford.
+
+One question I did have was, I have a Surface Pro and I use it every day at school, but I notice most people either use iPads or they use Android tablets. And I was wondering, what is Microsoft doing to compete against Google and Apple in the tablet space?
+
+SATYA NADELLA: When it comes to tablets there are multiple dimensions of being competitive, and we’re going to make sure we make progress on all of those. Great devices, it starts there, great software on that device, and then to have apps, as well as great price points. Those are the four dimensions I think of when I think about how do you get competitive with tablets.
+
+The 8.1 update is a big milestone on it. We have really made it possible now to have tablets across the full price range. So you will have many partners of ours produce tablets that will have the full range of prices and to be able to really make sure we have tablets that anyone, from a student to a professional, can use.
+
+Now, the second, when it comes to Surface itself, we will continue to innovate in driving what I think is the most productive tablet out there in the marketplace. And especially in combination with Office, as we build out these native applications for the new platform, you will see us continue to strive to make Surface the most productive tablet out there in the market.
+
+But when we sort of talk about tablet competitiveness, the key thing that we look at is what is the role of a tablet in a user’s device family, because if there was one thing in this morning’s keynote, it’s the Windows family. It’s the consistency for the user, it’s the consistency for the developer, and that’s what we obsess about.
+
+And to be able to talk about the tablet competitiveness to the exclusion of that family is not where we are going. So therefore we want our users to think about the Windows family of devices and the consistency of the user experience, and then from a developer perspective it’s the developer consistency, and that’s how we get very competitive.
+
+All right, let’s go to the next question.
+
+QUESTION: Hi. My name is Anna Gabriela (ph). I’m originally from Mexico City. I’m a U.S. designer and I really like designing applications for Windows, especially phone and tablet.
+
+My question for you today would be, how do you see the approach of UX design inside Microsoft, and how do you see this in five years? For example, do you see more like on touch side or would be more sensor, voice commands? That would be very interesting to know.
+
+SATYA NADELLA: When it comes to design and user experience, we’ve come a long way. We have a fantastic team of people who are doing awesome work, and you see it. You see it in this personalized Live Tile experiences that we have created across the entire Windows family. In fact, we are now inspiration in some sense for other platforms even in terms of design. And so you can expect us to continue to push the envelope on it.
+
+And this natural interface is definitely the frontier. Today, you see — in fact, this morning’s keynote stressed how we are thinking about gestures, how we are thinking about speech, with Cortana in fact a conversational agent. We are thinking about obviously about how do we even make modern applications still work with mouse and keyboard. So it’s a broad agenda when it comes to natural user interface.
+
+And I subscribe to what I think Bill Buxton, who is a researcher in Microsoft Research, talks about when you sort of reflect on what is natural about natural user interface. It’s the context, which is who, where, what, when, should define the type of interface that you want to use with your application on the device. And to me that matters a lot, because speech probably is the best interface with any device when you’re in the car. And to be able to get that right and to have applications interact with you in the right modality becomes very important, and to be able to do that with these natural user interface advances in Windows is a pretty top priority for us.
+
+And I would say we are the ones who have the broadest range of input modes today that we are really innovating with across the Windows family, and you can continue to see us do so going forward.
+
+All right, let’s roll the next question.
+
+QUESTION: Hi. I’m Michael Purdue (ph), an architect for GE Healthcare.
+
+As Microsoft invests more heavily in the cloud, vendors are wondering how they can design for the cloud, not simply migrate there. How will Microsoft support those vendors, particularly in the healthcare space, to do that seamlessly?
+
+SATYA NADELLA: You’re going to hear a lot more tomorrow in Scott Guthrie’s keynote about all the advances in our cloud, but one of the things that we started our cloud effort with was with a very first-class notion of what is the cloud design point, what does it mean to build a native cloud app. In fact, the entire back end for “Titanfall” was built on this cloud service called Thunderhead, which runs on Azure, and it’s got these amazing attributes. In fact, we are exercising those as on the day one how we elastically scaled out that infrastructure and then scaled it back down for day one.
+
+That notion of writing to the cloud design point where you have your data tier built for scale-out, that means you want to be able to partition your data for scale-out becomes a first-class problem that you’ve got to solve with a developer, you want to make your middle tier stateless so that you’re both resilient to failure and you can also really scale.
+
+The last thing is you want to be able to have all interactions async with your devices so you’re not blocking. In many cases, especially in healthcare, you may want to rendezvous back with data inside your datacenter because you’re not putting everything in a public cloud and you make that a message passing system between the public cloud and your private cloud, and we have some great technologies like service bus.
+
+So really understanding the capabilities of the platform so that you can build cloud-native apps and cloud-first apps is very important to us, and we have put a lot of focus on tooling, samples, patterns that we want to encourage developers to use to build, if you will, these applications that truly take advantage of the cloud versus just bringing your existing application to run in a virtual machine in the cloud.
+
+All right, let’s go to the next question.
+
+QUESTION: Hi. I’m David Yak (ph). I’m a developer from Colorado Springs, Colorado, and my question today is around the different APIs that Microsoft releases for each of their products. Today, developers have to relearn each time they pick up a new product. Is there something Microsoft can do to simplify that across the different products?
+
+SATYA NADELLA: Yeah, for sure we can and we are and we will continue to drive that. And this again came across, across all the keynotes this morning. The Windows Universal App, of course, is a first step in this direction. The APIs, I would say 90 percent of them now are consistent between Windows Phone and Windows tablets and PCs and that’s fantastic to see. We’ll continue to push that. Everything I know is pretty irritating to have the camera API being different or the life cycle and the controls, and we are fixing all of that, and really bringing that consistency for developers so that you can have that shared library across a variety of device targets.
+
+And on the back end, of course, we’ve got great consistency. If you’re a .NET developer, if you look at what we have done on Windows Server to Azure and with Visual Studio, we have made it much more seamless for you to be able to move your existing code and have consistency of the semantics of the API across all of these platforms, and you will continue to push on that, and it’s a pretty big focus for us.
+
+All right, let’s go to the next question.
+
+QUESTION: Hi. My name is Ross. I’m a developer from Austin, Texas.
+
+As we move more and more resources to the cloud, I’m curious what’s the plan to deal with latency?
+
+SATYA NADELLA: Latency is an industrywide issue. We have to start with developers building applications knowing that there is speed-of-light issues that get in the way. There is the Internet, there is the edge, and to be able to sort of really design your applications for it and to build a platform that is robust in terms of providing the best latency characteristics.
+
+So we are doing a lot in terms of just the capital investment that’s required to be ready for this. We have spent over $15 billion to make sure that all our cloud services and our datacenters are there everywhere. We have 18 regions of Windows Azure, which is the maximum, is the most that any public cloud has. We have 1 billion users on any given day using Microsoft services all over the globe in 90-plus countries, so we have a great footprint. We are making sure that we do things on the edge. We are doing things to be able to cache our storage at the edge, to be able to improve latency.
+
+And once you get to the datacenter you have to also still take care of both the North-South, as well as the East-West, so we’re putting in the right networking infrastructure, which is all software controlled, so that we can absolutely manage the best latency characteristics for your applications.
+
+So we have a significant focus on making sure that the apps that you build run great in a geo-distributed way. And, in fact, in tomorrow’s keynotes you will some cool innovations in a service called Traffic Manager. So if you’re a developer, you’ve built an application, you want it to be available in China, in Asia, in Europe and in North America, you can take this Traffic Manager and then geo-distribute your application across the datacenters and route traffic in intelligent ways so that the user, the end user, gets the best performance characteristics they deserve.
+
+So those are the things that we are doing to really help developers tackle the latency issues.
+
+All right, let’s go to the next question.
+
+QUESTION: Hi, Satya. My name’s Jonathan Nelson. I’m the founder of Hackers and Founders. We’re the largest group of nerds building startups in Silicon Valley. We have 12,000 members in Silicon Valley alone, and about 100,000 members globally.
+
+I’d love to hear your thoughts on how Microsoft can better help and support startups as they grow.
+
+SATYA NADELLA: Startups as a community is very important for us. We have the BizSpark program. I’d really encourage, if there’s anyone in a startup here, if you have not sort of looked at BizSpark benefits, it’s perhaps the best startup program with the benefits packages that go with it, both in terms of devices as well as the cloud. We have got over 75,000 startups who have taken advantage of BizSpark across the globe.
+
+We also have gotten started with Microsoft Ventures, which I’m very excited about. It’s small today but we plan to expand it, plan to learn from it. It’s got both community outreach to startups and community programs, but also seed funding and accelerators. So we now have accelerators in Silicon Valley, in Seattle, in Berlin, in Israel, in India and in China. And so it’s fantastic for us to be engaged with startups right at the seed round and create these accelerators where you get an opportunity to work with the latest and greatest Microsoft technology.
+
+And so we’ll continue to push this, and feedback on this obviously is also welcome, but engaging the startup community in Silicon Valley and elsewhere is a big priority for us.
+
+All right, let’s go to the next question.
+
+QUESTION: Hi. I’m Dr. Nils (ph) from nsquared, headquartered in Sydney, Australia.
+
+And Satya, I’d like to ask you a question about the vision for Microsoft. When I first started working with Microsoft technology 20-something years ago, the vision was very much around a computer on every desk, and that’s pretty much been achieved. So what’s the vision for Microsoft going forward?
+
+SATYA NADELLA: Our vision, simply put, is to thrive in this world of mobile first, cloud first going forward. There is going to be more ubiquitous computing everywhere and there’s going to be ambient intelligence everywhere. So that means there will be more new form factors because of the coevolution of silicon, hardware systems and software. There is everything that we do is going to get more digitized. So that means every human interaction with another human, the human to machine interaction, as well as machine to machine interaction all get digitized. You get to reason over all this data to be able to, in fact, improve the fidelity of those interactions using techniques like machine learning.
+
+So that’s the world that we are going into, and our goal is to really build platforms, create the best end-user experiences, the best developer opportunities and IT infrastructure for this ubiquitous computing or mobile-first, cloud-first world. And that’s really our vision, and hopefully you got a glimpse of some of the steps we are taking across the entire Windows family in this morning’s keynotes.
+
+All right, let’s end with a question from our new friend that we met this morning, Cortana.
+
+CORTANA: Hi, this is Cortana. Now you’re chief executive officer, do you have any plans to become a master chief executive officer? (Laughter.)
+
+SATYA NADELLA: Sure. Remind me to become master chief in 500 years.
+
+CORTANA: OK, I’ll remind you to become master chief on Monday, April 2nd, 2514. (Laughter.)
+
+SATYA NADELLA: Great. Great, remind me to watch Scott Guthrie tomorrow morning at 8:30.
+
+CORTANA: Sure. I can remind you to watch Scott Guthrie’s keynote tomorrow at 8:30 a.m. Sound good?
+
+SATYA NADELLA: Sounds great.
+
+CORTANA: OK, your presentation is ending now. Would you like any exit music?
+
+SATYA NADELLA: Sure. Play “It’s Time” by Imagine Dragons.
+
+Thank you very, very much, Build. Have a fantastic time at the rest of the developer conference. Thank you. (Applause.)

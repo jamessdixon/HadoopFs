@@ -1,11 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30110.0
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "HadoopFs", "HadoopFs\HadoopFs.fsproj", "{A95A8CF7-39DB-476D-9571-867F40068002}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SampleClient", "SampleClient\SampleClient.fsproj", "{9B18C9F3-3932-4517-975B-010E01CB7319}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{B89368BD-BAE7-4047-99A2-EDA8A8267220}"
+	ProjectSection(SolutionItems) = preProject
+		Data\Build_Keynote2014.txt = Data\Build_Keynote2014.txt
+		Data\Build_Keynote2015.txt = Data\Build_Keynote2015.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

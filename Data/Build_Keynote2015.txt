@@ -1,0 +1,137 @@
+ANNOUNCER:  Ladies and gentlemen, please welcome Satya Nadella.  (Cheers, applause.)
+
+SATYA NADELLA:  Good morning, everyone, and welcome to Build 2015.
+
+It’s exciting to be here at Build and in San Francisco.  In fact, I was just recounting, I’ve been at every developer conference of ours since 1991, in fact the very first one as a third-party developer, and after that as an employee at Microsoft, and it’s just awesome to be here.
+
+I know we have a fantastic show lined up for you.  We have lots of things to talk about in today’s keynote, but at the rest of the conference, lots of things to show you, lots of announcements, many, many new things that I think are going to be very exciting in terms of what you will make of them on day one, and what you will do on day two and thereafter.
+
+For me, in some sense, this conference is all about celebrating and challenging the creativity, the ingenuity that you all bring to build new and great things on top of platform innovations that we make available to you.
+
+And that phenomenon is not new.  In fact, it goes back to the very origins of our company.  Microsoft was founded by two developers who had a bold ambition to empower other developers to build new and great things.
+
+In fact, the tweet you see on the screen is the tweet from Paul Allen on our 40th anniversary.  We turned 40 in April.  And these are the first lines of code that Bill and Paul wrote.  It turns out that Bill wrote the runtime and Paul wrote everything else, and there’s this nice comment about we put better errors, so it started at the very beginning.  (Laughter.)
+
+And when you look at it, that ethos, a lot has changed in the 40 years since, a lot of technologies have come, a lot of technologies have gone.  In fact, the very first BASIC interpreter was written on a PDP10 with an 8080 emulator that was built so that you could target the Altair microcomputer.
+
+And in the 40 years a lot of devices have come and gone, a lot of technologies have come and gone, as they should.  But what has remained constant is that ethos, that core that we are a developer company and a platform company first.
+
+It is our mission to empower every person and organization on the planet to achieve more.
+
+And when we talk about empowering every person, it starts by empowering every developer on the planet.
+
+What you will hear us talk about in this conference and even in this morning’s keynote is perhaps the broadest lens through which we have viewed developers, development and platforms.
+
+We are going to want developers from student developers to startups to enterprise developers to ISVs to people writing mobile apps to people venturing into virtual reality and mixed reality, all of these developers to come exploit, take advantage of the platform innovation that you will see this morning and throughout this conference.
+
+We also want to make sure that we build bridges for you.  We want you to be able to bring your skills, your technology choices, your languages to our platforms, and then build from there new and great things.  That concept or that approach is something that’s going to be deeply ingrained in everything we do across all of our platforms.
+
+Over the last year, I’ve had a chance to talk to many developers throughout the world.  I met a couple of student developers, student developers who won the Imagine Cup last year from Australia.  They built this fantastic mobile app that made it possible for you to be able to detect anemia in children by just using a simple app and taking a selfie.  And that app now is changing lives in Africa and other developing parts of the world.
+
+I had a chance to meet a middle schooler in the Bronx, a girl who built a robot that could walk the stairs, and in her eyes I could see that that was just the very beginning of what she is going to do.
+
+I had a chance to meet some enterprise developers in Germany working in an industrial equipment manufacturer, and they were fundamentally changing, transforming their business to becoming a software company, an SaaS company.
+
+And so I thought that it’s perhaps appropriate to kick off Build by talking to one such developer.  In fact, he’s a musician who had a dream — and he calls himself an accidental developer, but who had a dream to change how music is composed.
+
+Please help me welcome David William Hearn.  (Applause.)
+
+Hi, David.
+
+DAVID WILLIAM HEARN:  Hi.
+
+SATYA NADELLA:  Great seeing you.
+
+DAVID WILLIAM HEARN:  Great to be here.
+
+SATYA NADELLA:  Thanks for coming up.  Why don’t you tell us a little bit about your dream, your journey so far?
+
+DAVID WILLIAM HEARN:  Absolutely.  So music notation is probably something that a lot of you in this room haven’t really thought about before, but it really is the written language of music.  It’s almost like a coding language of music, actually.  In fact, it has some similarities with code. You can even write in C# or F#.
+
+SATYA NADELLA:  F# is probably better for that.  (Laughter.)
+
+DAVID WILLIAM HEARN:  Ah, maybe.
+
+Up until now, there’s been two main ways that you can really write music, traditionally using pen and paper, which is very creative, maybe not that convenient sometimes, or the digital way, which is very laborious to input but very convenient once it’s in that form.
+
+So I really wanted to make something where you could take the creativity and the convenience and smash them together and create this brand new way of writing music.
+
+SATYA NADELLA:  Amazing.  Do you want to show us what you’ve built?
+
+DAVID WILLIAM HEARN:  Absolutely.  Let’s have a look.
+
+So StaffPad is handwriting recognition for music notation.  I’ve actually been working on a piece for the last few weeks, a piece for string quartet and piano.  And as you can see, I can use touch to interact with the score.  You can see we’ve got a big score here.  This is no nursery rhyme.
+
+And let’s scroll to the end, and we’ve got a couple of bars left to do.  So I figured we could finish it up onstage.
+
+SATYA NADELLA:  Oh, for sure.  You’re talking to a music illiterate, but go ahead.
+
+DAVID WILLIAM HEARN:  Oh, well, I don’t know how to run a big company.
+
+OK, let’s just take the pen and I’m going to start writing in the bars.  So it’s very natural.  The idea behind the app was that if you could write music — (computer ding tone) — you should be able to — hey!  (Laughter.)  If you can write music, you should be able to know how to use the app.  You don’t need to really learn too much.  It’s very intuitive.
+
+And so moving to the next bar, the music notation is recognized and turned into great notations.
+
+SATYA NADELLA:  Very cool.  (Applause.)
+
+DAVID WILLIAM HEARN:  All right, thank you.
+
+(Computer ding tone).
+
+I’m going to turn these off.  (Laughter.)
+
+(Computer ding tone).  (Laughter.)
+
+Fantastic.  This is actually interactive notation now.  So I can add staccato dots, and maybe I should slur some of these two, you think?  Slur means play it like you’re drunk.
+
+SATYA NADELLA:  OK.
+
+DAVID WILLIAM HEARN:  I’m going to get into so much trouble for that.  (Laughter.)
+
+Using touch I can double-tap the bar, select the bar and just pull this out.
+
+And this is the great thing about Surface and Windows.  It was really the only platform that we could do this for, because it really understands the difference between my fingers and the pen.  And that’s really key to making this intuitive and natural.
+
+I’m just going to take this last beat, we’re going to erase that using the pen eraser, and I’m going to draw in a string run here.  I’ll pull that up, and you can see there we’ve got a nice flash string run up to the top.
+
+So let me just do one last thing, double tap, copy this down.
+
+SATYA NADELLA:  That’s cool.
+
+DAVID WILLIAM HEARN:  Oh, no, we don’t want that.
+
+OK, and now we can play this back.  (Music.)
+
+And there you go, we finished it.
+
+SATYA NADELLA:  Awesome, awesome, awesome.  (Applause.)
+
+What’s been the reaction?  I know that this has been out for a few months, is it now?
+
+DAVID WILLIAM HEARN:  No, just a few weeks.
+
+SATYA NADELLA:  A few weeks.
+
+DAVID WILLIAM HEARN:  And the reaction has already been absolutely incredible, breathtaking really.  We’ve heard from people all over the world.  We heard from an 11-year-old composer who’s writing her second opera on the app — not her first, her second, and a 91-year-old who’s fallen back in love with writing music again.  It’s really been the students using it in the classroom, and it’s really just an incredible reaction.  It’s been breathtaking.
+
+SATYA NADELLA:  Awesome.  Thank you so much, David.  Thank you.
+
+DAVID WILLIAM HEARN:  Thank you.  (Applause.)
+
+SATYA NADELLA:  That’s what’s most striking about today’s developers and all of you, which is one person or a small group of people where a dream and a passion can have such huge impact by taking advantage of these platform technologies. Who would have thought that music composition can be changed with touch and ink?  And that’s what we live for as a platform company.  We want to be able to take inspiration from the apps you build to drive platform innovation.
+
+So today’s keynote is about three major platform transformations and shifts.  We want to talk about first our cloud platform.  We aspire to build an intelligent cloud back-end for the world’s applications running on all devices.
+
+We want to have the capability to manage infrastructure spanning datacenters.  So that means storage, compute and the network.  That’s not just about a datacenter as a computer, but all of the datacenters coming together in support of these intelligent applications.
+
+We want to have rich application services, in particular data services such as machine learning, and democratize the access to those capabilities so that every developer on every platform can build intelligent apps.
+
+Second, we want to talk about Office as a platform.  We want to move far beyond individual applications and their APIs to building a rich graph of data as a platform.
+
+We want you to be able to consume that graph, extend that graph, and we’ll talk a lot about that.
+
+And lastly, we want to talk about Windows.  Windows 10 represents a new generation of Windows built for an era of more personal computing, from Raspberry Pi to the holographic computer, where the mobility of the experience is what matters, not the mobility of the device.
+
+So to kick things off, let me have Scott Guthrie come up to the stage and talk about our cloud platform.  Thank you very much.  (Applause.)
+
+END
